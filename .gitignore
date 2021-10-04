@@ -13,6 +13,8 @@
 
 # fichier de config
 /src/config/config.api.js
+test.html
+test2.html
 
 # misc
 .DS_Store
