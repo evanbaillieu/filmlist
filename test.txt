@@ -1,0 +1,13 @@
+const config = {
+    url: "https://api.themoviedb.org/3/discover/tv",
+    api_key: "92b418e837b833be308bbfb1fb2aca1e",
+    language: "fr-FR",
+    sort_by: "popularity.desc",
+    page: "1",
+    timezone: "Europe/Paris",
+    include_null_first_air_dates: "false",
+    url_image: "https://image.tmdb.org/t/p/w300",
+    url_id: "https://api.themoviedb.org/3/tv/"
+} 
+
+export {config};
